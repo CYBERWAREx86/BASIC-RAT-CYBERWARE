@@ -3,7 +3,7 @@
 ## Developed by: [MIN (CYBERWARE)]
 
 > Basic RAT to troll your friends on the local network (**works only on localhost**).  
-> Built with 💻 C# and a lot of 🔥 hacker spirit.  
+> Built with 💻 C# 
 > **For educational use only and with consent!**
 
 ---
