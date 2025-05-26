@@ -1,39 +1,46 @@
-### 🐀 RAT_CYBERWARE_BASIC - use-LOCALHOST-
+# 🐀 RAT_CYBERWARE_BASIC - use-LOCALHOST-
 
-## Desenvolvido por: [MIN (CYBERWARE)]
+## Developed by: [MIN (CYBERWARE)]
 
-     RAT básico para brincar com os amigos na rede local (funciona apenas em localhost).
-     Feito com 💻 C# e muito 🔥 espírito hacker.
-     Uso exclusivamente educacional e com consentimento!
+> Basic RAT to troll your friends on the local network (**works only on localhost**).  
+> Built with 💻 C# and a lot of 🔥 hacker spirit.  
+> **For educational use only and with consent!**
 
-### 🚀 O que é?
+---
 
-## Este é um RAT (Remote Access Tool) simples, com foco em fins de teste e aprendizado em redes locais. Ideal para fazer experimentos, brincadeiras (com permissão) e estudar conceitos de controle remoto de dispositivos.
-# 🎮 Funcionalidades
+## 🚀 What is it?
 
-     ✅ Transmissão da tela em tempo real (localhost).
+This is a simple **RAT (Remote Access Tool)** focused on testing and learning in local networks.  
+Ideal for experiments, pranks (with permission), and studying remote control concepts.
 
-     ✅ Interface simples com WinForms.
+---
 
-     ✅ Controle remoto do mouse e teclado.
+## 🎮 Features
 
-     ✅ Comunicação via TCP.
+- ✅ Real-time screen streaming (localhost only)
+- ✅ Simple interface using WinForms
+- ✅ Remote mouse and keyboard control
+- ✅ TCP-based communication
+- ✅ Lightweight and functional
 
-     ✅ Leve e funcional!
+---
 
-### 🛠️ Como usar
+## 🛠️ How to use
 
-     Execute primeiro o servidor (roda na máquina que irá controlar).
+1. **Run the server first** (on the machine to be controlled)
+2. Then, **run the client** (on the machine that will control)
+3. Both must run on the **same machine** (localhost)
 
-     Em seguida, execute o cliente (roda na máquina que irá ser controlada).
+---
 
-     Ambos devem rodar na mesma rede (localhost).
+## 🎯 Enabling remote control
 
-### 🎯 Ativando o controle remoto
+To **enable mouse and keyboard control**, **press the `K` key** in the server window.  
+⚠️ Until you press `K`, the client will only be able to view the screen — no control.
 
-## Para ativar o controle do mouse e teclado, pressione a tecla K na janela do servidor.
-     ⚠️ Enquanto não apertar a tecla K, o cliente poderá apenas visualizar a tela, sem controle.
+---
 
-### 📌 Aviso legal
-## Este projeto é exclusivamente para fins educativos e éticos.
-## Use com responsabilidade e sempre com o consentimento da pessoa controlada.
+## 📌 Legal Notice
+
+This project is **for educational and ethical purposes only**.  
+Use responsibly and **always with the target's consent**.
