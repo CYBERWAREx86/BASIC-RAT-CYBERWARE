@@ -2,37 +2,37 @@
 
 ## Desenvolvido por: [MIN (CYBERWARE)]
 
-    # RAT básico para brincar com os amigos na rede local (funciona apenas em localhost).
-    # Feito com 💻 C# e muito 🔥 espírito hacker.
-    # Uso exclusivamente educacional e com consentimento!
+     RAT básico para brincar com os amigos na rede local (funciona apenas em localhost).
+     Feito com 💻 C# e muito 🔥 espírito hacker.
+     Uso exclusivamente educacional e com consentimento!
 
 ### 🚀 O que é?
 
 ## Este é um RAT (Remote Access Tool) simples, com foco em fins de teste e aprendizado em redes locais. Ideal para fazer experimentos, brincadeiras (com permissão) e estudar conceitos de controle remoto de dispositivos.
 # 🎮 Funcionalidades
 
-    # ✅ Transmissão da tela em tempo real (localhost).
+     ✅ Transmissão da tela em tempo real (localhost).
 
-    # ✅ Interface simples com WinForms.
+     ✅ Interface simples com WinForms.
 
-    # ✅ Controle remoto do mouse e teclado.
+     ✅ Controle remoto do mouse e teclado.
 
-    # ✅ Comunicação via TCP.
+     ✅ Comunicação via TCP.
 
-    # ✅ Leve e funcional!
+     ✅ Leve e funcional!
 
 ### 🛠️ Como usar
 
-    # Execute primeiro o servidor (roda na máquina que irá controlar).
+     Execute primeiro o servidor (roda na máquina que irá controlar).
 
-    # Em seguida, execute o cliente (roda na máquina que irá ser controlada).
+     Em seguida, execute o cliente (roda na máquina que irá ser controlada).
 
-    # Ambos devem rodar na mesma rede (localhost).
+     Ambos devem rodar na mesma rede (localhost).
 
 ### 🎯 Ativando o controle remoto
 
 ## Para ativar o controle do mouse e teclado, pressione a tecla K na janela do servidor.
-    # ⚠️ Enquanto não apertar a tecla K, o cliente poderá apenas visualizar a tela, sem controle.
+     ⚠️ Enquanto não apertar a tecla K, o cliente poderá apenas visualizar a tela, sem controle.
 
 ### 📌 Aviso legal
 ## Este projeto é exclusivamente para fins educativos e éticos.
