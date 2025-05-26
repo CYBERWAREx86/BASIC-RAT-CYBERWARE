@@ -1,4 +1,4 @@
-# 🐀 RAT CYBERWARE BASIC  [use LOCALHOSt]
+# 🐀 RAT CYBERWARE BASIC  [use LOCALHOST]
 
 ## Developed by: [MIN (CYBERWARE)]
 
