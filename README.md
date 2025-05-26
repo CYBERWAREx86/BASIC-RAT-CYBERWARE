@@ -29,7 +29,7 @@ Ideal for experiments, pranks (with permission), and studying remote control con
 
 1. **Run the server first** (on the machine to be controlled)
 2. Then, **run the client** (on the machine that will control)
-3. Both must run on the **same machine** (localhost)
+3. Both must be running on the **SAME NETWORK** (localhost)
 
 ---
 
