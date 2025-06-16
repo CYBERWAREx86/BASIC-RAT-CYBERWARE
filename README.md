@@ -1,6 +1,6 @@
 # 🐀 RAT CYBERWARE BASIC  [use on the same network]
 
-## Developed by: [MIN (CYBERWARE)]
+## Developed by: [(CYBERWARE)]
 
  > Basic RAT to troll your friends on the local network (**works only on the same network**).  
  > Built with 💻 C#
