@@ -1,8 +1,8 @@
-# 🐀 RAT CYBERWARE BASIC  [use LOCALHOST]
+# 🐀 RAT CYBERWARE BASIC  [use on the same network]
 
 ## Developed by: [MIN (CYBERWARE)]
 
- > Basic RAT to troll your friends on the local network (**works only on localhost**).  
+ > Basic RAT to troll your friends on the local network (**works only on the same network**).  
  > Built with 💻 C#
  > **For educational use only and with consent!**
 
@@ -29,7 +29,7 @@ Ideal for experiments, pranks (with permission), and studying remote control con
 
 1. **Run the server first** (on the machine to be controlled)
 2. Then, **run the client** (on the machine that will control)
-3. Both must be running on the **SAME NETWORK** (localhost)
+3. Both must be running on the **SAME NETWORK**
 
 ---
 
