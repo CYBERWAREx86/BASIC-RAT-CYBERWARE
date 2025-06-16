@@ -17,7 +17,7 @@ Ideal for experiments, pranks (with permission), and studying remote control con
 
 ## 🎮 Features
 
-- ✅ Real-time screen streaming (SAME NETWORK only)
+- ✅ Real-time screen streaming
 - ✅ Simple interface using WinForms
 - ✅ Remote mouse and keyboard control
 - ✅ TCP-based communication
